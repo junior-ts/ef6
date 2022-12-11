@@ -205,7 +205,7 @@ namespace System.Data.Entity.Tools.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Entity Framework Command-line Tools.
+        ///   Looks up a localized string similar to Entity Framework Command-line Tools (x86).
         /// </summary>
         internal static string EF6FullName {
             get {

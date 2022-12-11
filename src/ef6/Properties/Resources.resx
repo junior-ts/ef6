@@ -166,7 +166,7 @@
     <value>A previous migration called '{0}' was already applied to the target database. If you meant to re-scaffold '{0}', revert it by running 'Update-Database -TargetMigration {1}', then delete '{2}' and run 'Add-Migration {0}' again.</value>
   </data>
   <data name="EF6FullName" xml:space="preserve">
-    <value>Entity Framework Command-line Tools</value>
+    <value>Entity Framework Command-line Tools (x86)</value>
   </data>
   <data name="EnableMigrations_BeginInitialScaffold" xml:space="preserve">
     <value>Checking if the context targets an existing database...</value>
